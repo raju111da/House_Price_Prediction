@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 
 git config --global user.name "Raju K"
-git config --global user.email "raju999da@gmail.com"
+git config --global user.email "xyz@gmail.com"
 git add . 
 git status
 git commit -m "commit"
